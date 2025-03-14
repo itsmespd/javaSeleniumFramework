@@ -1,0 +1,12 @@
+{
+"scenario1":
+{
+"searchText":"automation",
+"enterDetails":"sam"
+},
+"scenario2":
+{
+"searchText":"automate",
+"enterDetails":"ton"
+}
+}

@@ -1,0 +1,12 @@
+{
+"scenario1":
+{
+"searchText":"selenium",
+"enterDetails":"walter"
+},
+"scenario2":
+{
+"searchText":"java",
+"enterDetails":"jesse"
+}
+}

@@ -1,0 +1,17 @@
+{
+"scenario1":
+{
+"searchText":"automation",
+"enterDetails":"sam",
+"credentials":
+	{
+		"username": "abcd",
+		"password": "abcd123"
+	}
+},
+"scenario2":
+{
+"searchText":"automate",
+"enterDetails":"ton"
+}
+}
